@@ -1385,7 +1385,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/ffae8d8319ca4972becb327ee1f375b92fd94a7f5522f9b80cd9ebef6331085f025966a61ecccfec2f59311281e1ffa3?pictype=scale&from=30111&version=3.3.3.3&fname=9470906ef858e7786e858262130023f6_compress87.jpg&size=1024);
+  background: url(/img/pc2.png);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5587,7 +5587,7 @@ mjx-container[display],
   border-radius: 5px !important;
 }
 [data-theme="dark"] #web_bg {
-  background: url(https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/6aa57b4efb44b50ac608c80ca2a68641d806e16aadbdc51ca63c7a717ebcab35eaa67b9555782f1035bc38dd0c4f1f90?pictype=scale&from=30111&version=3.3.3.3&fname=9a8daaaae2vxXjb_compress13.jpg&size=1024);
+  background: url(/img/pc1.png);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5595,14 +5595,14 @@ mjx-container[display],
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: url(https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/cc58c2fb5a014f82680bbef8033436c7710bdd30bf83b245c786fd3e7dea21befd4c454349aabd421768ed25c62f5ea3?pictype=scale&from=30111&version=3.3.3.3&fname=turing_20220819-100111_compress54.jpg&size=1024) !important;
+    background: url(/img/1.png) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: url(https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/aca5c00876bb97c182a618372db113b4f3e75471e943fb82068944f4c88b260c49057632a10a97722005250be825e7d6?pictype=scale&from=30111&version=3.3.3.3&fname=turing_20220817-004226_compress51.jpg&size=1024) !important;
+    background: url(/img/2.png) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
